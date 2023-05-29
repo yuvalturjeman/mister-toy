@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Musical Train Set",
+    "age": 4,
+    "price": 299,
+    "_id": "kF3kZ",
+    "labels": [
+      "On wheels",
+      "Battery Powered",
+      "Outdoor"
+    ],
+    "createdAt": 1631099274372,
+    "inStock": false,
+    "owner": {
+      "_id": "u102",
+      "fullname": "Muki Baba",
+      "score": 10000
+    }
+  },
+  {
+    "name": "Colorful Puzzle Blocks",
+    "age": 6,
+    "price": 45,
+    "_id": "kF3kD",
+    "labels": [
+      "Puzzle",
+      "Art"
+    ],
+    "createdAt": 1631107412719,
+    "inStock": true,
+    "owner": {
+      "_id": "u102",
+      "fullname": "Muki Baba",
+      "score": 10000
+    }
+  },
+  {
+    "name": "Giggling Giraffe",
+    "age": 3,
+    "price": 64,
+    "_id": "kF3kE",
+    "labels": [
+      "Baby",
+      "Outdoor"
+    ],
+    "createdAt": 1631122838598,
+    "inStock": true,
+    "owner": {
+      "_id": "u102",
+      "fullname": "Muki Baba",
+      "score": 10000
+    }
+  },
+  {
+    "name": "Magic Drawing Board",
+    "age": 5,
+    "price": 149,
+    "_id": "kF3kF",
+    "labels": [
+      "Art",
+      "Baby",
+      "Outdoor"
+    ],
+    "createdAt": 1631136809867,
+    "inStock": false,
+    "owner": {
+      "_id": "u102",
+      "fullname": "Muki Baba",
+      "score": 10000
+    }
+  },
+  {
+    "name": "RC Race Car",
+    "age": 7,
+    "price": 79,
+    "_id": "kF3kG",
+    "labels": [
+      "On wheels",
+      "Battery Powered"
+    ],
+    "createdAt": 1631102115584,
+    "inStock": true,
+    "owner": {
+      "_id": "u102",
+      "fullname": "Muki Baba",
+      "score": 10000
+    }
+  },
+  {
+    "name": "Stacking Rings",
+    "age": 3,
+    "price": 19,
+    "_id": "kF3kH",
+    "labels": [
+      "Baby"
+    ],
+    "createdAt": 1631129276751,
+    "inStock": false,
+    "owner": {
+      "_id": "u102",
+      "fullname": "Muki Baba",
+      "score": 10000
+    }
+  },
+  {
+    "name": "Interactive Learning Tablet",
+    "age": 10,
+    "price": 129,
+    "_id": "kF3kI",
+    "labels": [
+      "Baby",
+      "Battery Powered",
+      "Puzzle"
+    ],
+    "createdAt": 1631115098246,
+    "inStock": true,
+    "owner": {
+      "_id": "u102",
+      "fullname": "Muki Baba",
+      "score": 10000
+    }
+  }
+]
